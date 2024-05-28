@@ -8,9 +8,10 @@ lerna-debug.log3
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # detorminate/
-# Runtime data3
+# Runtime data3//**
 pids
-*.pid
+*.pid**
+#discover//
 *.seed
 *.pid.lock/1*
 ///
