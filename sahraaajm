@@ -9,7 +9,7 @@ lerna-debug.log3
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # detorminate/
 # Runtime data3//**
-pids
+pids*do that
 *.pid**
 #discover//
 *.seed
